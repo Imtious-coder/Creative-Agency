@@ -76,12 +76,14 @@
 
 #About-Content-Title {
   font-size: 42px;
+  line-height: 45px;
   font-weight: bold;
   color: #112e41;
 }
 
 #About-Content-Description {
   font-size: 20px;
+  line-height: 25px;
 }
 
 #About-Content-SubDescription {
