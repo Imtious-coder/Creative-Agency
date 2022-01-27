@@ -21,6 +21,9 @@
 .font-42 {
   font-size: 42px;
 }
+.font-60 {
+  font-size: 60px;
+}
 
 /* Custom Text Colors */
 .orange {
@@ -28,6 +31,9 @@
 }
 .black1 {
   color: #112e41;
+}
+.white {
+  color: #ffffff;
 }
 .grey {
   color: #888888;
@@ -144,4 +150,22 @@
   height: 60px;
   display: block;
   margin: auto;
+}
+
+/* FACTS */
+
+#Facts {
+  width: 100%;
+  min-height: 350px;
+  max-height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #162b45;
+}
+
+#Facts img {
+  display: block;
+  width: 60px;
+  height: 50px;
 }
