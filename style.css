@@ -2,8 +2,32 @@
   margin: 0;
 }
 
+/* Custom Font Size */
+.font-14 {
+  font-size: 14px;
+}
+.font-15 {
+  font-size: 15px;
+}
+.font-22 {
+  font-size: 22px;
+}
 .font-28 {
   font-size: 28px;
+}
+.font-42 {
+  font-size: 42px;
+}
+
+/* Custom Text Colors */
+.orange {
+  color: #ff7214;
+}
+.black1 {
+  color: #112e41;
+}
+.grey {
+  color: #888888;
 }
 
 .Button {
@@ -89,4 +113,21 @@
 #About-Content-SubDescription {
   font-size: 15px;
   color: #888888;
+}
+
+/* FEATURE */
+
+.Feature-Cards {
+  width: 220px !important;
+  margin: auto;
+  padding: 30px;
+  margin-top: 20px !important;
+  border: 5px solid #f6f7fb !important;
+}
+
+.Feature-Cards img {
+  width: 60px;
+  height: 60px;
+  display: block;
+  margin: auto;
 }
