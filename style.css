@@ -278,3 +278,20 @@ textarea {
     margin: 10px !important;
     border: 2px solid grey;
 }
+
+
+/* FOOTER */
+
+#Footer {
+    width: 100%;
+    background: #162b45;
+}
+
+
+/* CopyRight */
+
+.copyright {
+    width: 100%;
+    height: auto;
+    background: #10233a;
+}
