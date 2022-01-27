@@ -169,3 +169,13 @@
   width: 60px;
   height: 50px;
 }
+
+/* TESTIMONIAL */
+
+.testimonial-profile {
+  width: 100px;
+  height: 100px;
+  background: cover;
+  margin-bottom: 20px;
+  border-radius: 100%;
+}
